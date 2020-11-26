@@ -1,0 +1,63 @@
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\bin\Debug\My Project.exe.config
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\bin\Debug\My Project.exe
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\bin\Debug\My Project.pdb
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmAdmin.resources
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmHome.resources
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My Project.exe
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My Project.pdb
+c:\users\black deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmMainMenu.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmManager.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmStaff.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmManagement.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmCustomerManagement.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmPurchaseManagement.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmSalesManagement.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmStockManagement.resources
+C:\Users\Black Deviil\documents\visual studio 2015\Projects\My Project\My Project\obj\Debug\My_Project.frmStaffManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmAdmin.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmCustomerManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmHome.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmMainMenu.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmManager.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmPurchaseManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmSalesManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmStaffManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmStaff.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My_Project.frmStockManagement.resources
+C:\Users\Black Deviil\Desktop\New folder (2)\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+C:\Users\Black Deviil\Desktop\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Black Deviil\Desktop\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\Black Deviil\Desktop\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmMainMenu.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmManagement.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmManager.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmStaffManagement.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmStaff.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmSupplier.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmSales.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmPrint.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmCustomer.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.csprojAssemblyReference.cache
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My Project.csproj.CopyComplete
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmPurchase.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmLogin.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmUserRegistration.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmSalesManagement.resources
+C:\Users\Black Deviil\Desktop\My Project\My Project\obj\Debug\My_Project.frmStock.resources
